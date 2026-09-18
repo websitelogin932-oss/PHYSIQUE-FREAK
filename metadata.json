@@ -1,0 +1,6 @@
+{
+  "name": "Physique Freak GYM",
+  "description": "Physique Freak GYM in Shahtaj Colony, Lahore offers personal training, aerobics, cycling, nutrition consulting, youth classes and online fitness sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
